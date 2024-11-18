@@ -1,5 +1,4 @@
 fun main(){
     println("Information Technology")
-    println("bukharee")
-
+    println("Department")
 }
